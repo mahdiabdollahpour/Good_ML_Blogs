@@ -1,4 +1,4 @@
-# Good_ML_Blogs
+# Good ML Blogs
 
 ## NLP
   ### Transformers
