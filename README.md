@@ -4,7 +4,7 @@
   ### Transformers
 
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
-  
+- [Depends on the Definition](https://www.depends-on-the-definition.com/) Tutorials on Implementing NLP models
   
  ## Neural Networks
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
