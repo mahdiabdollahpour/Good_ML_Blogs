@@ -13,3 +13,6 @@
  ## Adversarial ML
 - [Gradient Science](https://gradientscience.org/) Adversarial Examples and Robustness, Aleksander Mądry Lab at MIT
 - [Nicholas Carlini's website](https://nicholas.carlini.com/) Talks, Papers and Codes on Adversarial ML, "I break things"
+
+
+#### Feel free to add a worthy blog to this list!
