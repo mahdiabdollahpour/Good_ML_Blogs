@@ -12,6 +12,7 @@
  ## Adversarial ML
 - [Gradient Science](https://gradientscience.org/) Adversarial Examples and Robustness, Aleksander Mądry Lab at MIT
 - [Nicholas Carlini's website](https://nicholas.carlini.com/) Talks, Papers and Codes on Adversarial ML, "I break things"
-
+ ## Bias, Fairness
+- [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)
 
 #### Feel free to add a worthy blog to this list!
