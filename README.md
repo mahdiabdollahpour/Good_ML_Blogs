@@ -6,6 +6,7 @@
 ## NLP
   
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
+- [Jay Alammar's Blog](http://jalammar.github.io/) Visualizing machine learning one concept at a time.
 - [Depends on the Definition](https://www.depends-on-the-definition.com/) Tutorials on Implementing NLP models
   
  ## Neural Networks
