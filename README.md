@@ -1,8 +1,8 @@
 # Good ML Blogs
 
 ## Various Topics
-- [Borealis AI Research Blog](https://www.borealisai.com/en/research/blog/) Lectures, Research Briefs,Tutorials
-
+- [Borealis AI Research Blog](https://www.borealisai.com/en/research/blog/) Lectures, Research Briefs, Tutorials
+- [Lil'Log](https://lilianweng.github.io/lil-log/) Neat and Comprehensive posts
 ## NLP
   
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
