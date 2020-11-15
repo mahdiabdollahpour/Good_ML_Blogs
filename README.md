@@ -14,6 +14,7 @@
  - [Danijar Hafner's blog](https://danijar.com/blog/) Mostly TF tutorials
  - [Yuxin Wu's blog](http://ppwwyyxx.com/blog/tags/en/) Deep Learning Impelementations Expriences, "Research that matters"
  ## Adversarial ML
+- [Cleverhans](http://www.cleverhans.io/) blog by Ian Goodfellow and Nicolas Papernot about security and privacy in machine learning.
 - [Gradient Science](https://gradientscience.org/) Adversarial Examples and Robustness, Aleksander Mądry Lab at MIT
 - [Nicholas Carlini's website](https://nicholas.carlini.com/) Talks, Papers and Codes on Adversarial ML, "I break things"
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/) Not a blog, but each time it shows an artificially generated image of a face, looking VERY REAL
