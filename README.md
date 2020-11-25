@@ -4,11 +4,11 @@
 - [Borealis AI Research Blog](https://www.borealisai.com/en/research/blog/) Lectures, Research Briefs, Tutorials
 - [Lil'Log](https://lilianweng.github.io/lil-log/) Neat and Comprehensive posts
 ## NLP
-  
+
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
 - [Jay Alammar's Blog](http://jalammar.github.io/) Visualizing machine learning one concept at a time.
 - [Depends on the Definition](https://www.depends-on-the-definition.com/) Tutorials on Implementing NLP models
-  
+- [Edward Ma's Medium blog](https://medium.com/@makcedward)  Focus in Natural Language Processing, Data Science Platform Architecture.
  ## Neural Networks
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
  - [Danijar Hafner's blog](https://danijar.com/blog/) Mostly TF tutorials
