@@ -14,6 +14,7 @@
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
  - [Danijar Hafner's blog](https://danijar.com/blog/) Mostly TF tutorials
  - [Yuxin Wu's blog](http://ppwwyyxx.com/blog/tags/en/) Deep Learning Impelementations Expriences, "Research that matters"
+ - [Stanford Deep Learning Tutorials](http://ufldl.stanford.edu/tutorial/)
  ## Adversarial ML
 - [Cleverhans](http://www.cleverhans.io/) blog by Ian Goodfellow and Nicolas Papernot about security and privacy in machine learning.
 - [Gradient Science](https://gradientscience.org/) Adversarial Examples and Robustness, Aleksander Mądry Lab at MIT
