@@ -5,6 +5,7 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/) Neat and Comprehensive posts
 - [Lei Mao's Blog](https://leimao.github.io/blog/)
 - [Andrej Karpathy blog](http://karpathy.github.io/) Musings of a Computer Scientist.
+- [Data Blog](https://xavierbourretsicotte.github.io/) Data Science, Machine Learning and Statistics, implemented in Python
 ## NLP
 
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
