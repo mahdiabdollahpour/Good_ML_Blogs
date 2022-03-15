@@ -33,4 +33,8 @@
 ## Bayesian
 - [Probabilistic Graphical Models blog, Stanford CS228](https://ermongroup.github.io/)
 
+## Recommender System
+- [Netflix Update: Try This at Home](https://sifter.org/~simon/journal/20061211.html)
+
+
 #### Feel free to add a worthy blog to this list!
