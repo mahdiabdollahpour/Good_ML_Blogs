@@ -38,4 +38,12 @@
 - [Netflix Update: Try This at Home](https://sifter.org/~simon/journal/20061211.html)
 
 
+# YouTube Channels
+- [Lex Fridman](https://www.youtube.com/@lexfridman)
+- [The Robot Brains Podcast](https://www.youtube.com/@TheRobotBrainsPodcast)  by Pieter Abbeel
+- [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)  by Tim Scarfe
+
+
+
+
 #### Feel free to add a worthy blog to this list!
