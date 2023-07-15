@@ -17,7 +17,7 @@
  ## Neural Networks
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
  - [Danijar Hafner's blog](https://danijar.com/blog/) Mostly TF tutorials
- - [Yuxin Wu's blog]([http://ppwwyyxx.com/blog/tags/en/](https://ppwwyyxx.com/blog/)) Deep Learning Implementations Experiences, "Research that matters"
+ - [Yuxin Wu's blog](https://ppwwyyxx.com/blog/) Deep Learning Implementations Experiences, "Research that matters"
  - [Stanford Deep Learning Tutorials](http://ufldl.stanford.edu/tutorial/)
  - [DeepGrid](https://www.jefkine.com/)
  
