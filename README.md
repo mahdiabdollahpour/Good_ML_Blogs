@@ -14,6 +14,8 @@
 - [Depends on the Definition](https://www.depends-on-the-definition.com/) Tutorials on Implementing NLP models
 - [Edward Ma's Medium blog](https://medium.com/@makcedward)  Focus in Natural Language Processing, Data Science Platform Architecture.
 - [Lena Voita's blog](https://lena-voita.github.io/posts.html) NLP with a focus on Machine Translation
+- [Jay Mody](https://jaykmody.com/)
+- 
  ## Neural Networks
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
  - [Danijar Hafner's blog](https://danijar.com/blog/) Mostly TF tutorials
