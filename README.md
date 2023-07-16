@@ -44,6 +44,7 @@
 - [Lex Fridman](https://www.youtube.com/@lexfridman)
 - [The Robot Brains Podcast](https://www.youtube.com/@TheRobotBrainsPodcast)  by Pieter Abbeel
 - [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)  by Tim Scarfe
+- [Ari Seff](https://www.youtube.com/@ariseffai)
 
 
 
