@@ -7,6 +7,7 @@
 - [Andrej Karpathy blog](http://karpathy.github.io/) Musings of a Computer Scientist.
 - [Data Blog](https://xavierbourretsicotte.github.io/) Data Science, Machine Learning and Statistics, implemented in Python
 - [Sonya Sawtelle's blog](https://sdsawtelle.github.io/blog/output/index.html) Exploring data science and python
+- [Rajat's Blog](https://rajatvd.github.io/)
 ## NLP
 
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) 
