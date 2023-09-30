@@ -16,6 +16,7 @@
 - [Edward Ma's Medium blog](https://medium.com/@makcedward)  Focus in Natural Language Processing, Data Science Platform Architecture.
 - [Lena Voita's blog](https://lena-voita.github.io/posts.html) NLP with a focus on Machine Translation
 - [Jay Mody](https://jaykmody.com/)
+- [James Briggs](https://jamescalam.medium.com/)
 - 
  ## Neural Networks
  - [Christopher Olah's blog](https://colah.github.io/) "I want to understand things clearly and explain them well."
