@@ -47,6 +47,7 @@
 - [The Robot Brains Podcast](https://www.youtube.com/@TheRobotBrainsPodcast)  by Pieter Abbeel
 - [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)  by Tim Scarfe
 - [Ari Seff](https://www.youtube.com/@ariseffai)
+- [James Briggs](https://www.youtube.com/@jamesbriggs/videos)
 
 
 
