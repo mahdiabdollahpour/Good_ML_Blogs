@@ -5,6 +5,7 @@
 - [Lil'Log](https://lilianweng.github.io/lil-log/) Neat and Comprehensive posts
 - [Lei Mao's Blog](https://leimao.github.io/blog/)
 - [Andrej Karpathy blog](http://karpathy.github.io/) Musings of a Computer Scientist.
+- [Aleksa Gordić](https://gordicaleksa.medium.com/) the AI Epiphany guy
 - [Data Blog](https://xavierbourretsicotte.github.io/) Data Science, Machine Learning and Statistics, implemented in Python
 - [Sonya Sawtelle's blog](https://sdsawtelle.github.io/blog/output/index.html) Exploring data science and python
 - [Rajat's Blog](https://rajatvd.github.io/)
@@ -35,8 +36,10 @@
 - [Do algorithms reveal sexual orientation or just expose our stereotypes?](https://medium.com/@blaisea/do-algorithms-reveal-sexual-orientation-or-just-expose-our-stereotypes-d998fafdf477)
 - [MIT AI Ethics Reading Group](https://mitaiethics.github.io/) The MIT AI Ethics discussion group aims to facilitate interdisciplinary, institute-wide discussions about AI technologies and the concerns they motivate. 
 
-## Bayesian
+## Stat, Bayesian
 - [Probabilistic Graphical Models blog, Stanford CS228](https://ermongroup.github.io/)
+- [Andy Jones](https://andrewcharlesjones.github.io/menu/blog.html)
+- [Graduate Descent](https://timvieira.github.io/blog/index.html)
 
 ## Recommender System
 - [Netflix Update: Try This at Home](https://sifter.org/~simon/journal/20061211.html)
