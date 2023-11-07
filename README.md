@@ -51,6 +51,7 @@
 - [Machine Learning Street Talk](https://www.youtube.com/@MachineLearningStreetTalk)  by Tim Scarfe
 - [Ari Seff](https://www.youtube.com/@ariseffai)
 - [James Briggs](https://www.youtube.com/@jamesbriggs/videos)
+- [Aleksa Gordić - The AI Epiphany](https://www.youtube.com/@TheAIEpiphany/videos)
 
 
 
